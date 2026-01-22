@@ -19,9 +19,8 @@ This script supports:
 - Random Passwords with adjustable length and optional punctuation (uses letters + digits)
 - Memorable Passwords built from a wordlist (can configure number of words)
 - Logging each generated password (each saved with a timestamp):
-Memorable passwords → `memorable_passwords.txt`
-
-Random passwords → `random_passwords.txt`
+  - Memorable passwords → `memorable_passwords.txt`
+  - Random passwords → `random_passwords.txt`
 Example:
 ```
 2026-01-22 14:35:10 - correct-horse-battery-staple
