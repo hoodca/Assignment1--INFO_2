@@ -76,11 +76,9 @@ Randomly samples words from the wordlist and joins them with hyphens.
 - `log_password(password, file)`
 Appends the password + timestamp to the specified log file.
 - `run_mass_test(...)`
-Runs 1000 iterations of:
-
-Randomly choosing password type
-
-Generating the password
+- - Runs 1000 iterations of:
+  - Randomly choosing password type
+  - Generating the password
 
 Logging it
 
